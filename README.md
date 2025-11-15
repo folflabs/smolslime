@@ -16,7 +16,7 @@ SmolBoard is a PCB that sits on top of the SuperMini nRF52840 as an alternative 
 
 ### To-Do (Future Revision)
 - [ ] Reduce the board width slightly to match the SuperMini
-- [ ] Power the IMU and crystal via P0.31
+- [X] Power the IMU and crystal via P0.31
 
 ## Credits
 The enclosure is inspired by Sorakage033's Cheesecake. I own a set of six Cheesecakes, and they're really well designed!
